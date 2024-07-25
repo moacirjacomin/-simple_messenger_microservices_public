@@ -9,9 +9,9 @@
 	<key>ANDROID_CLIENT_ID</key>
 	<string>139-50gch0frvrqertasrrkkut7nhpa087nc.apps.googleusercontent.com</string>
 	<key>API_KEY</key>
-	<string>AIzaSyDkMVtpF3XVQ8jxmVCtloS0FxSyLneabYE</string>
+	<string>xxx</string>
 	<key>GCM_SENDER_ID</key>
-	<string>139439491263</string>
+	<string>2323</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
@@ -31,7 +31,7 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:139439491263:ios:0806f27fb46d015cc01e0a</string>
+	<string>1:2323:ios:0806f27fb46d015cc01e0a</string>
 	<key>DATABASE_URL</key>
 	<string>https://bladiversos.firebaseio.com</string>
 </dict>

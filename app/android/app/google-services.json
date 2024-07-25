@@ -1,6 +1,6 @@
 {
   "project_info": {
-    "project_number": "139439491263",
+    "project_number": "2323",
     "firebase_url": "https://bladiversos.firebaseio.com",
     "project_id": "bladiversos",
     "storage_bucket": "bladiversos.appspot.com"
@@ -44,7 +44,7 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:139439491263:android:3518ac5df4804e28",
+        "mobilesdk_app_id": "1:2323:android:3518ac5df4804e28",
         "android_client_info": {
           "package_name": "com.example.chat_firebase"
         }
@@ -104,7 +104,7 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:139439491263:android:4824346c39ff42ae",
+        "mobilesdk_app_id": "1:2323:android:4824346c39ff42ae",
         "android_client_info": {
           "package_name": "com.example.login_animado"
         }
@@ -140,7 +140,7 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:139439491263:android:4de4d54fa1db06be",
+        "mobilesdk_app_id": "1:2323:android:4de4d54fa1db06be",
         "android_client_info": {
           "package_name": "com.example.loja_app_gerenciador"
         }
@@ -176,7 +176,7 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:139439491263:android:b6decca529d51a17c01e0a",
+        "mobilesdk_app_id": "1:2323:android:b6decca529d51a17c01e0a",
         "android_client_info": {
           "package_name": "com.simplemessenger.app"
         }
@@ -212,7 +212,7 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:139439491263:android:76a8e14ef33d71f2c01e0a",
+        "mobilesdk_app_id": "1:2323:android:76a8e14ef33d71f2c01e0a",
         "android_client_info": {
           "package_name": "my.uber.moax"
         }
@@ -256,7 +256,7 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:139439491263:android:edf2d1a690a7887bc01e0a",
+        "mobilesdk_app_id": "1:2323:android:edf2d1a690a7887bc01e0a",
         "android_client_info": {
           "package_name": "net.moacir.crud01"
         }
@@ -292,7 +292,7 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:139439491263:android:889274d725cb64b7c01e0a",
+        "mobilesdk_app_id": "1:2323:android:889274d725cb64b7c01e0a",
         "android_client_info": {
           "package_name": "net.moacir.hackan"
         }
@@ -328,7 +328,7 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:139439491263:android:5003d28cbd9d2104c01e0a",
+        "mobilesdk_app_id": "1:2323:android:5003d28cbd9d2104c01e0a",
         "android_client_info": {
           "package_name": "net.moacir.kong"
         }
@@ -364,7 +364,7 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:139439491263:android:aa19da0e4081dd28c01e0a",
+        "mobilesdk_app_id": "1:2323:android:aa19da0e4081dd28c01e0a",
         "android_client_info": {
           "package_name": "net.moacir.loja.loja_virtual_pro"
         }
@@ -400,7 +400,7 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:139439491263:android:05b1053ca9425b5dc01e0a",
+        "mobilesdk_app_id": "1:2323:android:05b1053ca9425b5dc01e0a",
         "android_client_info": {
           "package_name": "net.moacir.mod.modular6_test_01"
         }
@@ -444,7 +444,7 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:139439491263:android:8e24751e02b3abfac01e0a",
+        "mobilesdk_app_id": "1:2323:android:8e24751e02b3abfac01e0a",
         "android_client_info": {
           "package_name": "net.moacir.ottov1.otto_v1"
         }
@@ -480,7 +480,7 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:139439491263:android:b30688677483e925c01e0a",
+        "mobilesdk_app_id": "1:2323:android:b30688677483e925c01e0a",
         "android_client_info": {
           "package_name": "net.moacir.zzz_ferramentas_uteis"
         }
