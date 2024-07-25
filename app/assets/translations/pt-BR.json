@@ -1,0 +1,18 @@
+{
+   "msg": "uma mensagem simples",
+   "msg_named": "Mensagem com um argumento nomeado: {lang} ",
+   "msg_mixed": "{} algum texto aqui {lang} para testar parametros",
+   "gender": {
+      "male": "Hi man ;) {}",
+      "female": "Hello girl :) {}",
+      "other": "Hello {}"
+   },
+   "pt_BR": "Portugues",
+   "en_US": "Ingles",
+
+   "menu-chat": "Papo",
+   "menu-call": "Liga.",
+   "menu-people": "Amigos",
+   "menu-stories": "Stories",
+   "menu-profile": "Perfil"
+}

@@ -1,0 +1,519 @@
+{
+  "project_info": {
+    "project_number": "139439491263",
+    "firebase_url": "https://bladiversos.firebaseio.com",
+    "project_id": "bladiversos",
+    "storage_bucket": "bladiversos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1::android:",
+        "android_client_info": {
+          "package_name": "com.app.zsocial.z_social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139-cas91lct7p05l1929o363qsd73ubc0vb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "Xwww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139-cas91lct7p05l1929o363qsd73ubc0vb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "139-hkblnhpb9gleurscid44hbi7uljdgdjo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.simplemessenger.app.simpleMessenger"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139439491263:android:3518ac5df4804e28",
+        "android_client_info": {
+          "package_name": "com.example.chat_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139-50gch0frvrqertasrrkkut7nhpa087nc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chat_firebase",
+            "certificate_hash": "03a5cacbd2b89cc52a646be0db067b62abd37f8b"
+          }
+        },
+        {
+          "client_id": "139-6jr72vt8rrtkul2q4lnjecicluparbfn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chat_firebase",
+            "certificate_hash": "2134972705bd88adb01d83a4a2521fc6eda6ab7b"
+          }
+        },
+        {
+          "client_id": "139-bhhqblml9v0bis71ug0te62u66q17n9j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chat_firebase",
+            "certificate_hash": "bf8bcc60657c7b3631f9ec3d26fb0dfc080577a2"
+          }
+        },
+        {
+          "client_id": "139-cas91lct7p05l1929o363qsd73ubc0vb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "Xwww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139-cas91lct7p05l1929o363qsd73ubc0vb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "139-hkblnhpb9gleurscid44hbi7uljdgdjo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.simplemessenger.app.simpleMessenger"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139439491263:android:4824346c39ff42ae",
+        "android_client_info": {
+          "package_name": "com.example.login_animado"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139-cas91lct7p05l1929o363qsd73ubc0vb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "Xwww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139-cas91lct7p05l1929o363qsd73ubc0vb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "139-hkblnhpb9gleurscid44hbi7uljdgdjo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.simplemessenger.app.simpleMessenger"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139439491263:android:4de4d54fa1db06be",
+        "android_client_info": {
+          "package_name": "com.example.loja_app_gerenciador"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139-cas91lct7p05l1929o363qsd73ubc0vb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "Xwww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139-cas91lct7p05l1929o363qsd73ubc0vb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "139-hkblnhpb9gleurscid44hbi7uljdgdjo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.simplemessenger.app.simpleMessenger"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139439491263:android:b6decca529d51a17c01e0a",
+        "android_client_info": {
+          "package_name": "com.simplemessenger.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139-cas91lct7p05l1929o363qsd73ubc0vb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "Xwww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139-cas91lct7p05l1929o363qsd73ubc0vb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "139-hkblnhpb9gleurscid44hbi7uljdgdjo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.simplemessenger.app.simpleMessenger"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139439491263:android:76a8e14ef33d71f2c01e0a",
+        "android_client_info": {
+          "package_name": "my.uber.moax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139-f5ppg1mi8a2hgq4dsm4a2i0lm3ce04ka.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "my.uber.moax",
+            "certificate_hash": "b7140e82b5a9bb932c5dd2bcee2dfd9afaad5066"
+          }
+        },
+        {
+          "client_id": "139-cas91lct7p05l1929o363qsd73ubc0vb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "Xwww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139-cas91lct7p05l1929o363qsd73ubc0vb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "139-hkblnhpb9gleurscid44hbi7uljdgdjo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.simplemessenger.app.simpleMessenger"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139439491263:android:edf2d1a690a7887bc01e0a",
+        "android_client_info": {
+          "package_name": "net.moacir.crud01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139-cas91lct7p05l1929o363qsd73ubc0vb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "Xwww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139-cas91lct7p05l1929o363qsd73ubc0vb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "139-hkblnhpb9gleurscid44hbi7uljdgdjo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.simplemessenger.app.simpleMessenger"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139439491263:android:889274d725cb64b7c01e0a",
+        "android_client_info": {
+          "package_name": "net.moacir.hackan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139-cas91lct7p05l1929o363qsd73ubc0vb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "Xwww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139-cas91lct7p05l1929o363qsd73ubc0vb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "139-hkblnhpb9gleurscid44hbi7uljdgdjo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.simplemessenger.app.simpleMessenger"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139439491263:android:5003d28cbd9d2104c01e0a",
+        "android_client_info": {
+          "package_name": "net.moacir.kong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139-cas91lct7p05l1929o363qsd73ubc0vb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "Xwww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139-cas91lct7p05l1929o363qsd73ubc0vb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "139-hkblnhpb9gleurscid44hbi7uljdgdjo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.simplemessenger.app.simpleMessenger"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139439491263:android:aa19da0e4081dd28c01e0a",
+        "android_client_info": {
+          "package_name": "net.moacir.loja.loja_virtual_pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139-cas91lct7p05l1929o363qsd73ubc0vb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "Xwww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139-cas91lct7p05l1929o363qsd73ubc0vb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "139-hkblnhpb9gleurscid44hbi7uljdgdjo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.simplemessenger.app.simpleMessenger"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139439491263:android:05b1053ca9425b5dc01e0a",
+        "android_client_info": {
+          "package_name": "net.moacir.mod.modular6_test_01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139-etcvje0uevjlcjtjoee1k7kqud5ar9ut.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.moacir.mod.modular6_test_01",
+            "certificate_hash": "268ef1cae9fcec554d8a32ffb61135a6ac28e94b"
+          }
+        },
+        {
+          "client_id": "139-cas91lct7p05l1929o363qsd73ubc0vb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "Xwww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139-cas91lct7p05l1929o363qsd73ubc0vb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "139-hkblnhpb9gleurscid44hbi7uljdgdjo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.simplemessenger.app.simpleMessenger"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139439491263:android:8e24751e02b3abfac01e0a",
+        "android_client_info": {
+          "package_name": "net.moacir.ottov1.otto_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139-cas91lct7p05l1929o363qsd73ubc0vb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "Xwww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139-cas91lct7p05l1929o363qsd73ubc0vb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "139-hkblnhpb9gleurscid44hbi7uljdgdjo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.simplemessenger.app.simpleMessenger"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139439491263:android:b30688677483e925c01e0a",
+        "android_client_info": {
+          "package_name": "net.moacir.zzz_ferramentas_uteis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139-cas91lct7p05l1929o363qsd73ubc0vb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "Xwww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139-cas91lct7p05l1929o363qsd73ubc0vb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "139-hkblnhpb9gleurscid44hbi7uljdgdjo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.simplemessenger.app.simpleMessenger"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

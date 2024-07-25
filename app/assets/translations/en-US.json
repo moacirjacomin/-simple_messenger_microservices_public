@@ -1,0 +1,18 @@
+{
+   "msg":"a simple message",
+   "msg_named":"Message with name argument: {lang}",
+   "msg_mixed":"{} are written in the {lang} language",
+   "gender":{
+      "male":"Hi man ;) {}",
+      "female":"Hello girl :) {}",
+      "other":"Hello {}"
+   },
+   "pt_BR": "Portuguese",
+   "en_US": "English",
+
+   "menu-chat": "Chat",
+   "menu-call": "Call",
+   "menu-people": "People",
+   "menu-stories": "Stories",
+   "menu-profile": "Profile"
+}
